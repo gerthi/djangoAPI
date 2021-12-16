@@ -28,9 +28,10 @@ Open your browser and visit [localhost:8080](http://127.0.0.1:8080/) !
 
 The following endpoints are available to authenticated users :
 
-- `/tasks/` : to read, create, edit, delete tasks
-- `/tasklists/` : to read, create, edit, delete tasklists
-- `/auth/` : to login & logout
+- `/tasks/` read, create, edit, delete tasks
+- `/tasklists/` read, create, edit, delete tasklists
+- `/docs/` view a complete swagger API documentation
+- `/auth/` login & logout
 
 ## Creating users
 
