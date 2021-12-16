@@ -14,8 +14,8 @@ cd djangoAPI
 # install the requirements
 pip install -r requirements.txt
 
-# migrate the database
-python manage.py makemigrations
+# setup the database
+python manage.py makemigrations todos
 python manage.py migrate
 
 # run the server
