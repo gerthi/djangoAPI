@@ -39,6 +39,6 @@ You can either create users in the CLI by running `python manage.py createsuperu
 
 ## Improvements
 
-- [] Being able to create tasks without a tasklist when there are tasklists available
-- [] Better authentication
-- [] Improved documentation
+- [ ] Being able to create tasks without a tasklist when there are tasklists available
+- [ ] Better authentication
+- [ ] Improved documentation
