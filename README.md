@@ -36,3 +36,9 @@ The following endpoints are available to authenticated users :
 ## Creating users
 
 You can either create users in the CLI by running `python manage.py createsuperuser` or through the [Djangon admin interface](http://127.0.0.1:8000/admin/).
+
+## Improvements
+
+- [] Being able to create tasks without a tasklist when there are tasklists available
+- [] Better authentication
+- [] Improved documentation
