@@ -16,7 +16,7 @@ def api_root(request, format=None):
     return Response({
         'tasks': reverse('task-list', request=request, format=format),
         'todos': reverse('tasklist-list', request=request, format=format),
-        'docs': reverse('swagger-ui', request=request, format=format)
+        'docs': reverse('swagger-ui', request=request, format=format),
     })
 
 class TaskListView(generics.ListCreateAPIView):
