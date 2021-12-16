@@ -1,4 +1,4 @@
 Django
 djangorestframework
-# drf-yasg
 drf-spectacular
+dj-rest-auth

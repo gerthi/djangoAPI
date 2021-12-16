@@ -17,5 +17,5 @@ urlpatterns = [
             template_name="swagger-ui.html", url_name="schema"
         ),
         name="swagger-ui",
-    ),
+    )
 ]
